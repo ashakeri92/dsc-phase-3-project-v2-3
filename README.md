@@ -40,6 +40,22 @@ This analysis provides an adequate model that is able to generate predictions on
 
 ### Visuals
 
+![graph1](1.png)
+
+First logistic regression scores
+
+![graph2](2.png)
+
+Second logistic regression scores
+
+![graph3](3.png)
+
+Decision tree classification report and confusion matrix
+
+![graph4](4.png)
+
+XGBClassifier classification report
+
 
 ### For More Information
 
@@ -49,11 +65,11 @@ For any additional questions, please contact Armun Shakeri ashakeri62@gmail.com
 
 ## Repository Structure
 
-├── data
+├── archive
 ├── images
 ├── analysis.ipynb
+├── archive.zip
 ├── CONTRIBUTING.md
-├── LICENSE.md
-├── Presentation.pdf
+├── LICENSE.pdf
 ├── README.md 
 
