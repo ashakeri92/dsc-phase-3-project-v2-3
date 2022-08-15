@@ -40,19 +40,19 @@ This analysis provides an adequate model that is able to generate predictions on
 
 ### Visuals
 
-![graph1](1.png)
+![graph1](./images/1.png)
 
 First logistic regression scores
 
-![graph2](2.png)
+![graph2](./images/2.png)
 
 Second logistic regression scores
 
-![graph3](3.png)
+![graph3](./images/3.png)
 
 Decision tree classification report and confusion matrix
 
-![graph4](4.png)
+![graph4](./images/4.png)
 
 XGBClassifier classification report
 
