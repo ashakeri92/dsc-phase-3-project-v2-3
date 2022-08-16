@@ -26,13 +26,13 @@ For analysis we decided to use 3 models, logistic regression, DecisionTreeClassi
 
 ### Evaluation and Conclusion 
 
-After analyzing and evaluating the data set from Syria Tel we created 3 models the scores from highest to lowest go as follows:
+After analyzing and evaluating the data set from Syria Tel we have 3 recommendations:
 
-1) XGBClassifier: precision
+1) Bring down costs of day charges
 
-2) DecisionTreeClassifier
+2) offer bonuses for minutes used 
 
-3) LogisticRegression
+2) Focus more on customer service 
 
 For this analysis we will be choosing XGBClassifier as the chosen model. On the classification report it scored perfectly on the training data and had the highest scores in precision, recall, and f1-score. We want to ensure the model runs as accurateltly as possible, meaning we also want the chosen model to have low false positives and true negatives. The XGBClassifier also falls within this category.
 
@@ -56,6 +56,9 @@ Decision tree classification report and confusion matrix
 
 XGBClassifier classification report
 
+![graph5](./images/heatmap.png)
+
+Heatmap generated from SyriaTel data 
 
 ### For More Information
 
