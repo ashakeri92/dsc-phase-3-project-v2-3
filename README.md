@@ -56,7 +56,7 @@ Decision tree classification report and confusion matrix
 
 XGBClassifier classification report
 
-![graph5](./images/heatmap.png)
+![graph5](./images/Heatmap.png)
 
 Heatmap generated from SyriaTel data 
 
